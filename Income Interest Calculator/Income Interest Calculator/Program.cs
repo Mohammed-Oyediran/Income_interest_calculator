@@ -78,6 +78,7 @@ namespace Income_Interest_Calculator
 
             Console.WriteLine();
             Console.WriteLine("Thank you for using the Income Interest Calculator! \n");
+            Console.ReadLine();
 
 
 
