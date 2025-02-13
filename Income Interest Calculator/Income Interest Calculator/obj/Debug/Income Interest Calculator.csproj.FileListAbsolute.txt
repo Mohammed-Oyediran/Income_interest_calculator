@@ -1,0 +1,7 @@
+C:\Users\Hadew\OneDrive\Desktop\C_Sharp_repo\Income_Interest_Calculator\Income Interest Calculator\Income Interest Calculator\bin\Debug\Income Interest Calculator.exe.config
+C:\Users\Hadew\OneDrive\Desktop\C_Sharp_repo\Income_Interest_Calculator\Income Interest Calculator\Income Interest Calculator\bin\Debug\Income Interest Calculator.exe
+C:\Users\Hadew\OneDrive\Desktop\C_Sharp_repo\Income_Interest_Calculator\Income Interest Calculator\Income Interest Calculator\bin\Debug\Income Interest Calculator.pdb
+C:\Users\Hadew\OneDrive\Desktop\C_Sharp_repo\Income_Interest_Calculator\Income Interest Calculator\Income Interest Calculator\obj\Debug\Income Interest Calculator.csproj.AssemblyReference.cache
+C:\Users\Hadew\OneDrive\Desktop\C_Sharp_repo\Income_Interest_Calculator\Income Interest Calculator\Income Interest Calculator\obj\Debug\Income Interest Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hadew\OneDrive\Desktop\C_Sharp_repo\Income_Interest_Calculator\Income Interest Calculator\Income Interest Calculator\obj\Debug\Income Interest Calculator.exe
+C:\Users\Hadew\OneDrive\Desktop\C_Sharp_repo\Income_Interest_Calculator\Income Interest Calculator\Income Interest Calculator\obj\Debug\Income Interest Calculator.pdb
